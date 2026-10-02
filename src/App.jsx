@@ -6,7 +6,7 @@ import Placeholder from './pages/Placeholder';
 
 function App() {
   return (
-    <Router basename="/Campulsy">
+    <Router>
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Home />} />
