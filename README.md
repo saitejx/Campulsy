@@ -24,8 +24,8 @@ This repository currently contains the frontend prototype, built to be easily ex
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/student-platform.git
-   cd student-platform
+   git clone https://github.com/Campulsy.git
+   cd Campulsy
    ```
 
 2. Install dependencies:
